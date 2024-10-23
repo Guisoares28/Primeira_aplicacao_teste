@@ -1,0 +1,12 @@
+.tenor-gif-embed{
+    height: 400px;
+    width: 400px;
+}
+body{
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 40px;
+}
